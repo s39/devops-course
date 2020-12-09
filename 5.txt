@@ -1,3 +1,7 @@
 new file added by another
+<<<<<<< Updated upstream
 
 345
+=======
+123
+>>>>>>> Stashed changes
