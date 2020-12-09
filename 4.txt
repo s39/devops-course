@@ -1,5 +1,3 @@
 
 this is a text file
 file changed
-file changed after upload
-
